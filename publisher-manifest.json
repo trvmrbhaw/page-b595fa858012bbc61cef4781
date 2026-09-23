@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "8cd12bc5f05ad9487bb23b02",
+  "owner": "trvmrbhaw",
+  "repo": "page-b595fa858012bbc61cef4781",
+  "title": "Faisco",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b595fa858012bbc61cef4781",
+      "a": "Faisco",
+      "b": "机场官网线路发布页",
+      "entity": "Faisco",
+      "brand": "Faisco",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "eb5416a10c7539f7ea1a1924c9b45eb2a199e90dd22cdb182b20716393692ada",
+      "content": {
+        "primary_entity": "Faisco",
+        "keyword1": "Faisco",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，提供基础版、旗舰版和团队版三档订阅，覆盖每月 100GB 到 1000GB 流量、3 到 20 台设备同时在线的使用场景。旗舰版与团队版分别搭载 IPLC 专线游戏加速优化和 VIP 专属高带宽节点，支持全节点原生流媒体解锁。按年付比月付更划算，基础版年付仅需 ¥150，旗舰版年付仅需 ¥350，团队版年付仅需 ¥850。",
+          "AI_HERO_SUBTITLE": "多档订阅匹配不同设备量",
+          "AI_HERO_INTRO": "Faisco 提供从入门到团队协作的订阅方案，流量、设备数和线路类型按需组合。选定套餐后可在各平台客户端导入订阅地址，按文档完成配置即可使用。",
+          "AI_VISUAL_TITLE": "Faisco 订阅随时上手",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB 适合轻量使用",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线游戏加速优化",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备共享",
+          "AI_FEATURES_TITLE": "套餐与设备搭配要点",
+          "AI_FEATURES_INTRO": "根据日常流量和同时在线设备数挑选档位，年付方案在总价上更低。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，对应不同用量节奏。",
+          "AI_FEATURE_TITLE_2": "按设备数选档",
+          "AI_FEATURE_TEXT_2": "3 台、5 台、20 台三档同时在线限制，家庭和团队各有合适选择。",
+          "AI_FEATURE_TITLE_3": "年付更省",
+          "AI_FEATURE_TEXT_3": "旗舰版年付 ¥350，比月付累计节省 ¥70，团队版年付 ¥850 同样划算。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "Windows、macOS、Android、iOS 等设备可选用对应订阅客户端，具体兼容情况以客户端文档描述为准。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月适合单人或轻量使用；旗舰版 ¥35/月提供 300GB 流量与 IPLC 专线游戏加速优化，适合多设备用户；团队版 ¥85/月以 1000GB 流量和 20 台设备支持小团队协作。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_GUIDE_INTRO": "从选套餐到客户端导入，按顺序完成即可开始使用。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TEXT_1": "对照流量和设备数需求，在基础版、旗舰版、团队版中选定一档订阅。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认常用设备的系统版本和客户端类型是否满足订阅导入条件。",
+          "AI_STEP_TITLE_3": "依客户端文档配置",
+          "AI_STEP_TEXT_3": "在对应客户端中按文档导入订阅地址，完成线路选择与连接测试。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Faisco 三档套餐主要差别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备，含 IPLC 专线游戏加速优化；团队版每月 1000GB、20 台设备，提供 VIP 专属高带宽节点。",
+          "AI_FAQ_QUESTION_2": "年付比月付能省多少？",
+          "AI_FAQ_ANSWER_2": "基础版年付 ¥150，相当于月付 ¥12.5；旗舰版年付 ¥350，比月付累计省 ¥70；团队版年付 ¥850，也比逐月购买更划算。",
+          "AI_FAQ_QUESTION_3": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_3": "购买后在账户中获取订阅地址，打开对应平台的客户端，按客户端文档说明粘贴或扫码导入，选择线路后即可连接。",
+          "AI_FAQ_QUESTION_4": "设备数量超出套餐上限怎么办？",
+          "AI_FAQ_ANSWER_4": "同时在线设备数按档位限制，超出时可升级至更高档位，例如从基础版升级到旗舰版或团队版，以获得更多同时在线名额。",
+          "AI_FAQ_QUESTION_5": "旗舰版的 IPLC 专线适合哪些场景？",
+          "AI_FAQ_ANSWER_5": "IPLC 专线针对游戏加速优化，适合对延迟和线路稳定性要求较高的实时对战、语音通话等场景，日常浏览与流媒体同样可用。",
+          "AI_CLOSING_TITLE": "选对档位轻松开始",
+          "AI_CLOSING_TEXT": "根据流量和设备数选定套餐，按客户端文档导入订阅即可使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "chashanrc.cn",
+    "host": "chashanrc.cn"
+  },
+  "file_hashes": {
+    "index.html": "1a934e72cb531b010954111ef488775c3cf8cbb51e4287c7752c9c96fe26246a",
+    "sitemap.xml": "76772b6c36f6521913dc06f60f6faef675a69ffbe0eacf8a6a85cf157eca3dda",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ef286f712a27dd71347bce9917cc9cc57f870783ff25ac643216ae2d4867dac7",
+    "robots.txt": "dc638644d81e2ee66ab3885e5e6e6792bb842799a38fa24111c44ce52f377ba7",
+    "782b9c07627a68aa624c9d7017d33b3f.txt": "fa933840c39077ecbeb7e6d601cbe29a6367e3530dcfe8fa9ae506e763729773"
+  },
+  "revision": "10f841386b04e78c4dacd1d30a2eb0e329b9f9924707122d9c7527670b1ed56c"
+}
